@@ -22,7 +22,6 @@ A wine dataset is provided. The task is to analyze data and build a regression m
 ### Links:
 - [Wine data](https://github.com/Abhishekmamidi123/Regression-Analysis/blob/master/data/winequality-white.csv)
 - Link to the report(detailed analysis) - [Report](https://github.com/miheer29/Miheer-Project-1/blob/master/Analysis%20of%20Regression.pdf)
-- [Source code can be found on Kaggle](https://www.kaggle.com/abhishekmamidi/introduction-to-regression-complete-analysis)
 
 ### Developer:
-- Miheer Prakash
+- Miheer Prakash and Abhishek Mamidi
